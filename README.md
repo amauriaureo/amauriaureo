@@ -1,4 +1,6 @@
-#Olá pessoas!!  
+## Hello ~World~ there, I'm Amauri 👋🏻👨🏻‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
+
 Me chamo Amauri e hoje estudo Desenvolvimento web full stack através da Gama Academy - XP38
 
 No XP38 estou e vou exercitar as seguintes ferramentas:
