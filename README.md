@@ -1,4 +1,4 @@
-## Hello people!! I'm Amauri.
+## Hello ~World~ there, I'm Amauri 👋🏻👨🏻‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
 **Currently in Gama Academy XP Program - Fullstack Web Development**
