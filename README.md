@@ -12,4 +12,6 @@
 
 * **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
+#### 💻 **Main projects:**
+- [Cervejaria Escafandrista](https://github.com/amauriaureo/cervejaria-escafandrista) - Virtual Store - HTML, CSS, Bootstrap.
 
