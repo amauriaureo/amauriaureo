@@ -1,7 +1,7 @@
 ### Olá pessoas! 👋🏻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
-**Currently in Gama Academy XP Program - Fullstack Web Development**
+**Atualmente no programa XP Gama Academy - Fullstack Web Development**
 
 
 * **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
@@ -12,6 +12,5 @@
 
 * **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
-#### 💻 **Main projects:**
-- [Cervejaria Escafandrista](https://github.com/amauriaureo/cervejaria-escafandrista) - Virtual Store - HTML, CSS, Bootstrap.
+
 
