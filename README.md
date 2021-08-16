@@ -4,9 +4,9 @@
 **Atualmente no programa XP Gama Academy - Fullstack Web Development**
 
 
-* **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
+- [x] **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
-* **Front End:** HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
+- [x] **Front End:** HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
 
 * **Back End:** Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
 
