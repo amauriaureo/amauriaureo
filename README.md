@@ -1,8 +1,12 @@
-### Olá pessoas! 👋🏻
+### Hello! 👋🏻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
-**Atualmente no programa XP Gama Academy - Fullstack Web Development**
+I'm an 27 years <strong>front-end developer</strong> living in Brazil 🇧🇷
 
+Info:
+- 👩🏽‍💻 I'm a very curious person and love learning new stuff
+- 📚 Studying Analysis Systems Development
+- 👩🏽‍🎓 Currently in Gama Academy XP Program - [Fullstack Web Development](https://www.gama.academy/gama-experience/desenvolvimento-full-stack)
 
 - [x] **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
@@ -23,5 +27,4 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
