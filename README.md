@@ -17,7 +17,7 @@ Info:
 * **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 
-  <h2 align="left">I'm learning:<h2>
+  <h2 align="left">I'm learning:</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
