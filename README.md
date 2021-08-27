@@ -1,7 +1,10 @@
-### Hello! 👋🏻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
+
+### Hello! 👋🏻
+
 I'm an 27 years <strong>front-end developer</strong> living in Brazil 🇧🇷
+
 
 Info:
 - 👩🏽‍💻 I'm a very curious person and love learning new stuff
