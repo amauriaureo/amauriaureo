@@ -15,7 +15,7 @@ Info:
 
 **Back End:** Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
 
-- **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
+**Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 
   <h2 align="left">I'm learning:</h2>
