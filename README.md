@@ -6,17 +6,16 @@ I'm an 27yo <strong>front-end developer</strong> living in Brazil 🇧🇷
 
 
 Info:
-- 👩🏽‍💻 I'm a very curious person and love learning new stuff
 - 📚 Studying Analysis Systems Development
 - 👩🏽‍🎓 Currently in Gama Academy XP Program - [Fullstack Web Development](https://www.gama.academy/gama-experience/desenvolvimento-full-stack)
 
-- [x] **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
+- **Essencial Skills:** Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
-- [x] **Front End:** HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
+- **Front End:** HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
 
-- [ ] **Back End:** Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
+- **Back End:** Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
 
-- [ ] **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
+- **Diferenciais:** Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 
   <h2 align="left">I'm learning:</h2>
