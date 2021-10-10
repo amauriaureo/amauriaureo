@@ -1,8 +1,8 @@
-# Hello! 👋🏻 
+# Oi! 👋🏻 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
 
-  <h2 align="left">I'm learning:</h2>
+  <h2 align="left">Estudando:</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
