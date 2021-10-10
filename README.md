@@ -2,10 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-rodrigues/)](https://www.linkedin.com/in/amauri-rodrigues/)
 
 
-I'm an 27yo <strong>front-end developer</strong> living in Brazil 🇧🇷
-
-
-
   <h2 align="left">I'm learning:</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
